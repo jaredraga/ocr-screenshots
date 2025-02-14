@@ -1,0 +1,1 @@
+APIKEY = "sk-1234567890abcdef1234567890abcdef" # Replace with your API key
