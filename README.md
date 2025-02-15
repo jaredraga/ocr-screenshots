@@ -31,3 +31,6 @@ The application manages data using `duckdb`, allowing for organized storage and 
 
 ## Usage
 - Run the main script to start the OCR process and follow the prompts to interact with the application.
+
+## Pipeline
+- Use [Numind Classification Model](https://numind.ai/models) to classify comment before putting into database.
